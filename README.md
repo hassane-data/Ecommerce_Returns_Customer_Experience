@@ -1,5 +1,15 @@
 # E-commerce Returns & Customer Experience Analysis
+## Project Files
 
+[Download the Excel workbook](Ecommerce_Returns_Customer_Experience_Starter.xlsx)
+
+## Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+
+## Project Mind Map
+
+![Project Mind Map](ecommerce-project-star-mind-map.svg)
 ## Project overview
 
 This Excel project analyses sales orders, deliveries, returns, and customer data to understand return behaviour and delivery performance. The final output is an Excel dashboard supported by documented data-quality checks and KPI analysis.
