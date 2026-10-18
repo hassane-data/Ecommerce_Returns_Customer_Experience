@@ -5,7 +5,7 @@
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](image_Dashboard.png)
 
 ## Project Mind Map
 
