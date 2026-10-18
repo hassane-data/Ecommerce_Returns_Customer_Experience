@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">E-commerce Returns and Customer Experience Analysis project mind map</title>
+  <desc id="desc">A radial mind map showing the project workflow from business questions and source data to audit, calculations, KPI analysis, dashboard, and key insights.</desc>
+  <rect width="1600" height="1000" fill="#f8fafc"/>
+  <style>
+    .line { stroke:#94a3b8; stroke-width:4; stroke-linecap:round; }
+    .node { fill:#ffffff; stroke:#2563eb; stroke-width:3; }
+    .center { fill:#1d4ed8; }
+    .h { font:700 24px Arial, sans-serif; fill:#0f172a; text-anchor:middle; }
+    .t { font:17px Arial, sans-serif; fill:#334155; text-anchor:middle; }
+    .ct { font:700 29px Arial, sans-serif; fill:#ffffff; text-anchor:middle; }
+    .cs { font:17px Arial, sans-serif; fill:#dbeafe; text-anchor:middle; }
+  </style>
+  <!-- connectors -->
+  <line class="line" x1="800" y1="500" x2="800" y2="190"/>
+  <line class="line" x1="800" y1="500" x2="1160" y2="285"/>
+  <line class="line" x1="800" y1="500" x2="1160" y2="715"/>
+  <line class="line" x1="800" y1="500" x2="800" y2="820"/>
+  <line class="line" x1="800" y1="500" x2="440" y2="715"/>
+  <line class="line" x1="800" y1="500" x2="440" y2="285"/>
+  <!-- central project -->
+  <rect class="center" x="570" y="405" width="460" height="190" rx="28"/>
+  <text class="ct" x="800" y="475">E-commerce Returns</text>
+  <text class="ct" x="800" y="515">&amp; Customer Experience</text>
+  <text class="cs" x="800" y="553">Excel Data Analysis Project</text>
+  <!-- top -->
+  <rect class="node" x="590" y="55" width="420" height="190" rx="22"/>
+  <text class="h" x="800" y="95">Business Questions</text>
+  <text class="t" x="800" y="130">Return rate and return reasons</text>
+  <text class="t" x="800" y="160">Late vs on-time delivery</text>
+  <text class="t" x="800" y="190">Provider and category performance</text>
+  <!-- upper right -->
+  <rect class="node" x="1080" y="155" width="400" height="260" rx="22"/>
+  <text class="h" x="1280" y="195">Source Data</text>
+  <text class="t" x="1280" y="230">Orders · Products · Customers</text>
+  <text class="t" x="1280" y="260">Shipments · Returns</text>
+  <text class="t" x="1280" y="290">Monthly Targets</text>
+  <text class="t" x="1280" y="330">Data Dictionary</text>
+  <!-- lower right -->
+  <rect class="node" x="1080" y="585" width="400" height="260" rx="22"/>
+  <text class="h" x="1280" y="625">Audit &amp; Cleaning</text>
+  <text class="t" x="1280" y="660">Define line-level grain</text>
+  <text class="t" x="1280" y="690">891 → 883 order lines</text>
+  <text class="t" x="1280" y="720">Validate keys and missing values</text>
+  <text class="t" x="1280" y="750">Standardise and parse text</text>
+  <!-- bottom -->
+  <rect class="node" x="590" y="755" width="420" height="190" rx="22"/>
+  <text class="h" x="800" y="795">Enrichment &amp; Calculations</text>
+  <text class="t" x="800" y="830">Product and customer lookups</text>
+  <text class="t" x="800" y="860">Shipment and return joins</text>
+  <text class="t" x="800" y="890">Sales, profit, returns, delivery</text>
+  <!-- lower left -->
+  <rect class="node" x="120" y="585" width="400" height="260" rx="22"/>
+  <text class="h" x="320" y="625">KPI Analysis</text>
+  <text class="t" x="320" y="660">Delivery status overview</text>
+  <text class="t" x="320" y="690">Provider performance</text>
+  <text class="t" x="320" y="720">Return rate by category</text>
+  <text class="t" x="320" y="750">Distribution by return reason</text>
+  <!-- upper left -->
+  <rect class="node" x="120" y="155" width="400" height="260" rx="22"/>
+  <text class="h" x="320" y="195">Dashboard &amp; Insights</text>
+  <text class="t" x="320" y="230">883 lines · 136 returns · 15.4%</text>
+  <text class="t" x="320" y="260">39.7% on-time delivery rate</text>
+  <text class="t" x="320" y="290">Office: highest return rate</text>
+  <text class="t" x="320" y="320">Wrong Item: leading reason</text>
+</svg>
