@@ -1,4 +1,7 @@
 # E-commerce Returns & Customer Experience Analysis
+
+**Role:** Data Analyst  
+**Scope:** End-to-end Excel analysis of 883 order lines, from raw-data audit to KPI dashboard.
 ## Project Files
 
 [Download the Excel workbook](Ecommerce_Returns_Customer_Experience.xlsx)
@@ -104,3 +107,13 @@ The `KPI_Analysis` sheet contains the pivot tables and metrics used in the dashb
 ## Limitation
 
 The analysis describes patterns in the supplied dataset. It does not establish the operational causes of late deliveries or returns.
+
+## Skills Demonstrated
+- Data cleaning and audit checks
+- Excel formulas and lookup functions
+- Data validation and data enrichment
+- PivotTables and KPI analysis
+- Dashboard design and business storytelling
+
+## Data Privacy
+This project uses a practice dataset. Customer-related data is fictional and used for learning purposes only.
